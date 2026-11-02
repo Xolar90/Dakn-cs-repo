@@ -1,0 +1,8 @@
+{
+  "name": "Dakn Repo",
+  "description": "مستودعي الخاص للأنمي والأفلام",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Xolar90/Dakn-cs-repo/main/plugins.json"
+  ]
+}
