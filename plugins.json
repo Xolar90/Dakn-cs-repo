@@ -1,0 +1,65 @@
+[
+  {
+    "name": "AnimePahe",
+    "internalName": "AnimePahe",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
+    "version": 10,
+    "lang": "en",
+    "status": 1,
+    "tvTypes": ["Anime", "AnimeMovie", "OVA"]
+  },
+  {
+    "name": "Animexin",
+    "internalName": "Animexin",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
+    "version": 5,
+    "lang": "en",
+    "status": 1,
+    "tvTypes": ["Anime"]
+  },
+  {
+    "name": "AniZone",
+    "internalName": "AniZone",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniZone.cs3",
+    "version": 3,
+    "lang": "en",
+    "status": 1,
+    "tvTypes": ["Anime"]
+  },
+  {
+    "name": "Animekhor",
+    "internalName": "Animekhor",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
+    "version": 5,
+    "lang": "zh",
+    "status": 1,
+    "tvTypes": ["Anime"]
+  },
+  {
+    "name": "Animesalt",
+    "internalName": "Animesalt",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animesalt.cs3",
+    "version": 4,
+    "lang": "hi",
+    "status": 1,
+    "tvTypes": ["Anime"]
+  },
+  {
+    "name": "Cinemana",
+    "internalName": "Cinemana",
+    "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cinemana.cs3",
+    "version": 5,
+    "lang": "ar",
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"]
+  },
+  {
+    "name": "FaselHD",
+    "internalName": "FaselHD",
+    "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/FaselHD.cs3",
+    "version": 12,
+    "lang": "ar",
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries", "Anime"]
+  }
+]
